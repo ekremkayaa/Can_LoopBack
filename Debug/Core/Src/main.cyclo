@@ -1,0 +1,8 @@
+../Core/Src/main.c:22:5:main	2
+../Core/Src/main.c:49:6:UART2Init	2
+../Core/Src/main.c:63:6:CAN1Init	2
+../Core/Src/main.c:88:6:CAN1Tx	3
+../Core/Src/main.c:112:6:CAN1Rx	3
+../Core/Src/main.c:129:6:CANFilterConfig	2
+../Core/Src/main.c:147:6:systemClockConfigHSE	9
+../Core/Src/main.c:255:6:errorHandler	1
